@@ -7,4 +7,6 @@ module.exports = {
   '4': '0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e',
   // Goerli
   '5': '0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e',
+  // Theta Mainnet
+  '361': '0x6644894555B8beC6BdC1B0E6617816aF90473ea2',
 }
